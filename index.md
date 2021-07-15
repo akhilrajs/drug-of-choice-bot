@@ -5,7 +5,7 @@ Telegram bot to help you study pharmacology. To access the bot search "Drug of c
 
 <a href="https://t.me/doc_by_artec_bot">Click Here to open the BOT</a>
 
-<img src="https://user-images.githubusercontent.com/67222042/125746025-13ddcd3e-f4d5-45cd-a68c-c0a42238b879.png" alt="mockup">
+![IMG_20210714_191450](https://user-images.githubusercontent.com/67222042/125830661-dcf1e747-c06e-4c79-8274-b7ec239c356c.png)
 
 <img src="https://user-images.githubusercontent.com/67222042/125747407-973a1abf-735b-4599-b7a7-13ceded11327.png" alt="post_0_edition1 2">
 

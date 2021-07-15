@@ -5,6 +5,7 @@ Telegram bot to help you study pharmacology. To access the bot search "Drug of c
 </p>
 
 <p align="center">
+ 
 ![mockup](https://user-images.githubusercontent.com/67222042/125746025-13ddcd3e-f4d5-45cd-a68c-c0a42238b879.png)
 
 ![post_0_edition1 2](https://user-images.githubusercontent.com/67222042/125747407-973a1abf-735b-4599-b7a7-13ceded11327.png)

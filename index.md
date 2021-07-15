@@ -1,4 +1,5 @@
-Drug Of Choice BOT </h1>
+Drug Of Choice BOT
+
 Telegram bot to help you study pharmacology. To access the bot search "Drug of choice bot" in telegram you will find - @doc_by_artec_bot
 
 

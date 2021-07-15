@@ -1,10 +1,8 @@
-<!DOCTYPE html>                            <html>
-</p><h1> Drug Of Choice BOT </h1>
+Drug Of Choice BOT </h1>
 Telegram bot to help you study pharmacology. To access the bot search "Drug of choice bot" in telegram you will find - @doc_by_artec_bot
-<p></p>
 
-<p><a href="https://t.me/doc_by_artec_bot">Click Here to open the BOT</a></p>
-<p align="center">
+
+<a href="https://t.me/doc_by_artec_bot">Click Here to open the BOT</a>
 
 <img src="https://user-images.githubusercontent.com/67222042/125746025-13ddcd3e-f4d5-45cd-a68c-c0a42238b879.png" alt="mockup">
 

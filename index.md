@@ -11,4 +11,4 @@ Telegram bot to help you study pharmacology. To access the bot search "Drug of c
 
 <img src="https://user-images.githubusercontent.com/67222042/125746038-753f7396-17b7-49e6-abd6-5c4f322d0af9.png" alt="post_01">
  
-authour - <a href="https://www.instagram.com/akhil_raj_s_/">Akhil Raj S</a>
+author - <a href="https://www.instagram.com/akhil_raj_s_/">Akhil Raj S</a>

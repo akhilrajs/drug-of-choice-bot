@@ -1,6 +1,6 @@
-Drug Of Choice BOT
+# Drug Of Choice BOT
 
-Telegram bot to help you study pharmacology. To access the bot search "Drug of choice bot" in telegram you will find - @doc_by_artec_bot
+Telegram bot to help you study pharmacology. To access the bot search "Drug of choice bot" in telegram you will find - **@doc_by_artec_bot**
 
 
 <a href="https://t.me/doc_by_artec_bot">Click Here to open the BOT</a>

@@ -18,7 +18,7 @@ from os import getcwd
 from telegram import ParseMode
 
 
-token = "1869000141:AAG4gGBsI7NC1-ql82H0OgEGnP3-Q2CJt38"
+token = ""
 telepot.api.set_proxy('http://proxy.server:3128')
 
 
@@ -266,7 +266,7 @@ def classification_index(update, context):
     user = update.message.from_user
     user_id = str(user['id'])
     user_id = user_id
-    token = "1869000141:AAG4gGBsI7NC1-ql82H0OgEGnP3-Q2CJt38"
+    token = ""
     bot = telepot.Bot(token)
     bot.sendMessage(user_id, text=index_, parse_mode=ParseMode.MARKDOWN)
 

@@ -4,7 +4,7 @@ def main(search, user_id, user_name):
     import telepot
 
 
-    token = "1869000141:AAG4gGBsI7NC1-ql82H0OgEGnP3-Q2CJt38"
+    token = ""
     bot = telepot.Bot(token)
 
     classification_index = pd.read_excel(r'classification_index_arranged.xlsx')
